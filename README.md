@@ -1,5 +1,5 @@
 # Problem Statement -
-# https://www.geektrust.com/challenge/trainẓ
+# https://www.geektrust.com/challenge/train
 
 # Pre-requisites
 * NodeJS 12.6.0/14.15.4/16.10.0
